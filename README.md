@@ -5,7 +5,7 @@ Um ser apaixonado pela prática musical que se encontrou na programação. Atual
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofroez&theme=transparent&bg_color=8B008B&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFFF00&text_color=FFF)  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaofroez&layout=compact&bg_color=8B008B&border_color=30A3DC&title_color=FFFF00&text_color=FFF)
 ### Acesse meus contatos abaixo.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofroez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofroes/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:froes544@gmail.com)
 ### Aprendendo 🖥️
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
