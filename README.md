@@ -1,15 +1,45 @@
-# Olá, eu sou João! 👋
-## SOBRE MIM
-Um ser apaixonado pela prática musical que se encontrou na programação. Atualmente, curso graduação em Sistemas de Informação no CEFET/RJ, com interesse em áreas como desenvolvimento de software e web.
-##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaofroez&theme=transparent&bg_color=8B008B&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFFF00&text_color=FFF)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaofroez&layout=compact&bg_color=8B008B&border_color=30A3DC&title_color=FFFF00&text_color=FFF)
-### Acesse meus contatos abaixo.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofroes/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:froes544@gmail.com)
-### Aprendendo 🖥️
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# Olá, eu sou o João Victor! 👋
+
+<br>
+
+### 👨‍💻 Sobre Mim
+Estudante de Sistemas de Informação no CEFET/RJ, apaixonado por resolver problemas através da tecnologia. Tenho um forte interesse nas áreas de **Automação de processos** e **Análise de Dados**. 
+
+Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender com projetos práticos.
+
+<br>
+
+### 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
+<br>
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de João Victor Tavares Fróes](https://github-readme-stats.vercel.app/api?username=joaofroez&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofroez&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+### 📫 Como me encontrar
+
+<a href="https://www.linkedin.com/in/joão-victor-tavares-fróes-b6b880249/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
