@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre Mim
 Estudante de Sistemas de Informação no CEFET/RJ. Já tive experiência prática com **Python**, realizando **automação de relatórios e processos de cadastro**, o que me proporcionou uma base sólida em programação e solução de problemas.  
 
-Atualmente, estou direcionando minha formação para o **desenvolvimento web**, aprofundando meus estudos em **JavaScript** e outras tecnologias. Meu objetivo é me consolidar como **desenvolvedor Fullstack Web**, capaz de criar aplicações modernas e completas.  
+Atualmente, estou direcionando minha formação para o **desenvolvimento web**, aprofundando meus estudos em **JavaScript** e outras tecnologias. Meu objetivo é me consolidar como **desenvolvedor Fullstack Web** 
 
 A busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos.  
 
