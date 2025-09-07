@@ -3,10 +3,14 @@
 <br>
 
 ### 👨‍💻 Sobre Mim
-Estudante de Sistemas de Informação no CEFET/RJ, gosto de entender a fundo os problemas para construir soluções com código. Tenho um forte interesse nas áreas de **Automação de processos** e **Análise de Dados**. 
+Estudante de Sistemas de Informação no CEFET/RJ. Já tive experiência prática com **Python**, realizando **automação de relatórios e processos de cadastro**, o que me proporcionou uma base sólida em programação e solução de problemas.  
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender com projetos práticos.
+Atualmente, estou direcionando minha formação para o **desenvolvimento web**, aprofundando meus estudos em **JavaScript** e outras tecnologias. Meu objetivo é me consolidar como **desenvolvedor Fullstack Web**, capaz de criar aplicações modernas e completas.  
+
+A busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos.  
+
 <br>
+
 ### 🚀 Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
@@ -17,6 +21,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
